@@ -1,7 +1,7 @@
 #!/bin/bash
 PERSON1=Ramesh
 PERSON2=Suresh
-echo "$person1: Hellow $person2,good morning"
-echo "$person2: Hi $person1,very good morning"
-echo "$person1: $person2 where are you going"
-echo "$person2: I am going collage $person1"
+echo "$PERSON1: Hellow $PERSON2,good morning"
+echo "$PERSON2: Hi $PERSON1,very good morning"
+echo "$PERSON1: $PERSON2 where are you going"
+echo "$PERSON2: I am going collage $PERSON1"
